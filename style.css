@@ -1,4 +1,4 @@
-<<<<<<< HEAD
+
 * {
     margin: 0px;
     padding: 0px;
@@ -130,7 +130,7 @@
 }
 
 .topics__container p {
-    border: solid gray;
+    border: 1px solid gray;
     padding: 10px;
     flex-grow: 1;
     flex-basis: 25%;
@@ -167,7 +167,7 @@
     align-items: center;
     display: flex;
     justify-content: space-between;
-=======
+}
 * {
     margin: 0px;
     padding: 0px;
@@ -300,5 +300,4 @@
     align-items: center;
     display: flex;
     justify-content: space-between;
->>>>>>> 7424453db90f6b5069fc880ee762c2d7ae7382d4
 }
